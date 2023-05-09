@@ -80,7 +80,7 @@ function SelectTest(props: PropsWithChildren<SelectTestData>) {
 
         <Grid item xs={8}>
             <Typography align={"left"} variant="h5" gutterBottom>
-                7777כותבת יקרה, 666666
+                7777כותבת יקרה, 666666 888888
                 <br />
                 נהנתי לקרוא את מאמרך.
                 <br />
