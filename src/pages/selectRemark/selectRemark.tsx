@@ -120,7 +120,7 @@ function SelectRemark(props: PropsWithChildren<SelectRemarkData>) {
             onClick={addRemarkToList}
             variant="contained"
           >
-            הוסף הערה
+           בבקשה הוסף הערה
           </Button>
         </Grid>
       </Grid>
